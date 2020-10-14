@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "description": "A simple doohickey tool for creating p5.js based projects",
   "main": "index.js",
-  "author": "gausam",
+  "author": "guasam",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guasam/p5-doohickey"
+  },
   "license": "MIT",
   "keywords": [
     "p5",
